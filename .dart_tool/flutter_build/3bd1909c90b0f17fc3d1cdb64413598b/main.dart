@@ -1,4 +1,4 @@
-// @dart=2.18
+// @dart=2.19
 // Flutter web bootstrap script for package:flutter_portfolio/main.dart.
 //
 // Generated file. Do not edit.
